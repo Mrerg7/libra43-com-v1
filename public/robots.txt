@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://libra43.com/sitemap-index.xml
