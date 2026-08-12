@@ -44,7 +44,7 @@ No Worker script or `@astrojs/cloudflare` adapter is required.
 
 Production target: **https://libra43.com**
 
-CTA routes to: `sales@desertrich.com`
+CTA routes to: `erg@libra43.com`
 
 ## Notes
 
